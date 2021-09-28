@@ -1,0 +1,702 @@
+{
+    "1": {
+        "rank": "1",
+        "song": "Peru",
+        "artist": "Fireboy DML",
+        "Previous week": "1",
+        "weeks on chart": "11"
+    },
+    "2": {
+        "rank": "2",
+        "song": "Understand",
+        "artist": "Omah Lay",
+        "Previous week": "2",
+        "weeks on chart": "11"
+    },
+    "3": {
+        "rank": "3",
+        "song": "Lie",
+        "artist": "Kizz Daniel",
+        "Previous week": "9",
+        "weeks on chart": "11"
+    },
+    "4": {
+        "rank": "4",
+        "song": "Question (feat. Don Jazzy)",
+        "artist": "Burna Boy",
+        "Previous week": "3",
+        "weeks on chart": "11"
+    },
+    "5": {
+        "rank": "5",
+        "song": "Feeling ft. Buju",
+        "artist": "LADIPOE and  Buju",
+        "Previous week": "4",
+        "weeks on chart": "10"
+    },
+    "6": {
+        "rank": "6",
+        "song": "Bounce",
+        "artist": "Ruger",
+        "Previous week": "6",
+        "weeks on chart": "11"
+    },
+    "7": {
+        "rank": "7",
+        "song": "Big Thug Boys",
+        "artist": "AV",
+        "Previous week": "15",
+        "weeks on chart": "11"
+    },
+    "8": {
+        "rank": "8",
+        "song": "Essence (feat. Tems)",
+        "artist": "Wizkid",
+        "Previous week": "5",
+        "weeks on chart": "11"
+    },
+    "9": {
+        "rank": "9",
+        "song": "Running (To You) ft. Simi",
+        "artist": "Chike and  Simi",
+        "Previous week": "18",
+        "weeks on chart": "11"
+    },
+    "10": {
+        "rank": "10",
+        "song": "Touch It",
+        "artist": "KiDi",
+        "Previous week": "20",
+        "weeks on chart": "11"
+    },
+    "11": {
+        "rank": "11",
+        "song": "Kamata",
+        "artist": "Diamond Platnumz",
+        "Previous week": "8",
+        "weeks on chart": "11"
+    },
+    "12": {
+        "rank": "12",
+        "song": "Bloody Samaritan",
+        "artist": "Ayra Starr",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "13": {
+        "rank": "13",
+        "song": "Mood",
+        "artist": "Wizkid",
+        "Previous week": "7",
+        "weeks on chart": "11"
+    },
+    "14": {
+        "rank": "14",
+        "song": "Kilometre",
+        "artist": "Burna Boy",
+        "Previous week": "10",
+        "weeks on chart": "11"
+    },
+    "15": {
+        "rank": "15",
+        "song": "Soundgasm",
+        "artist": "Rema",
+        "Previous week": "11",
+        "weeks on chart": "11"
+    },
+    "16": {
+        "rank": "16",
+        "song": "Sinner",
+        "artist": "Adekunle Gold and  Lucky Daye",
+        "Previous week": "17",
+        "weeks on chart": "11"
+    },
+    "17": {
+        "rank": "17",
+        "song": "NEED ME",
+        "artist": "Gyakie",
+        "Previous week": "13",
+        "weeks on chart": "4"
+    },
+    "18": {
+        "rank": "18",
+        "song": "High",
+        "artist": "Adekunle Gold and  Davido",
+        "Previous week": "44",
+        "weeks on chart": "7"
+    },
+    "19": {
+        "rank": "19",
+        "song": "Second Sermon",
+        "artist": "Black Sherif",
+        "Previous week": "12",
+        "weeks on chart": "11"
+    },
+    "20": {
+        "rank": "20",
+        "song": "Rock",
+        "artist": "Olamide",
+        "Previous week": "14",
+        "weeks on chart": "11"
+    },
+    "21": {
+        "rank": "21",
+        "song": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
+        "artist": "DJ Tarico and  Burna Boy",
+        "Previous week": "47",
+        "weeks on chart": "11"
+    },
+    "22": {
+        "rank": "22",
+        "song": "Ring My Line (feat. Headie One)",
+        "artist": "King Promise",
+        "Previous week": "19",
+        "weeks on chart": "5"
+    },
+    "23": {
+        "rank": "23",
+        "song": "Infinity ft. Omah Lay",
+        "artist": "Olamide",
+        "Previous week": "21",
+        "weeks on chart": "7"
+    },
+    "24": {
+        "rank": "24",
+        "song": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
+        "artist": "Diamond Platnumz",
+        "Previous week": "66",
+        "weeks on chart": "5"
+    },
+    "25": {
+        "rank": "25",
+        "song": "Jealous (feat. Mayorkun) ",
+        "artist": "Alikiba",
+        "Previous week": "71",
+        "weeks on chart": "7"
+    },
+    "26": {
+        "rank": "26",
+        "song": "Godly",
+        "artist": "Omah Lay",
+        "Previous week": "22",
+        "weeks on chart": "11"
+    },
+    "27": {
+        "rank": "27",
+        "song": "FOR YOU",
+        "artist": "Marioo (TZ)",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "28": {
+        "rank": "28",
+        "song": "Monalisa",
+        "artist": "Lojay and  Sarz",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "29": {
+        "rank": "29",
+        "song": "History ft. Fireboy DML",
+        "artist": "Cheque",
+        "Previous week": "23",
+        "weeks on chart": "5"
+    },
+    "30": {
+        "rank": "30",
+        "song": "LV N ATTN feat. Wizkid",
+        "artist": "Lojay",
+        "Previous week": "27",
+        "weeks on chart": "10"
+    },
+    "31": {
+        "rank": "31",
+        "song": "Anoti",
+        "artist": "WizKid",
+        "Previous week": "24",
+        "weeks on chart": "9"
+    },
+    "32": {
+        "rank": "32",
+        "song": "Slow Down",
+        "artist": "King Promise",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "33": {
+        "rank": "33",
+        "song": "Door ft. Kwesi Arthur",
+        "artist": "Joeboy",
+        "Previous week": "26",
+        "weeks on chart": "4"
+    },
+    "34": {
+        "rank": "34",
+        "song": "Bad Influence",
+        "artist": "Omah Lay",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "35": {
+        "rank": "35",
+        "song": "Outside",
+        "artist": "Buju",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "36": {
+        "rank": "36",
+        "song": "Izolo",
+        "artist": "DJ Maphorisa and  Tyler ICU",
+        "Previous week": "30",
+        "weeks on chart": "2"
+    },
+    "37": {
+        "rank": "37",
+        "song": "Salungano",
+        "artist": "Makhadzi",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "38": {
+        "rank": "38",
+        "song": "Medicine",
+        "artist": "Jaywillz",
+        "Previous week": "29",
+        "weeks on chart": "2"
+    },
+    "39": {
+        "rank": "39",
+        "song": "Naanzaje",
+        "artist": "Diamond Platnumz",
+        "Previous week": "28",
+        "weeks on chart": "3"
+    },
+    "40": {
+        "rank": "40",
+        "song": "Show Me",
+        "artist": "Joeboy",
+        "Previous week": "32",
+        "weeks on chart": "4"
+    },
+    "41": {
+        "rank": "41",
+        "song": "LOML (feat. Olamide)",
+        "artist": "Cheque",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "42": {
+        "rank": "42",
+        "song": "Felony",
+        "artist": "CKay",
+        "Previous week": "34",
+        "weeks on chart": "3"
+    },
+    "43": {
+        "rank": "43",
+        "song": "Ojuju",
+        "artist": "Troniq Music and  Oxlade",
+        "Previous week": "31",
+        "weeks on chart": "3"
+    },
+    "44": {
+        "rank": "44",
+        "song": "Non Living Thing (feat. Oxlade)",
+        "artist": "Sarkodie",
+        "Previous week": "42",
+        "weeks on chart": "2"
+    },
+    "45": {
+        "rank": "45",
+        "song": "Yalaaaa",
+        "artist": "Zuchu",
+        "Previous week": "67",
+        "weeks on chart": "4"
+    },
+    "46": {
+        "rank": "46",
+        "song": "Ex",
+        "artist": "Nikita Keringxe2x80x99",
+        "Previous week": "40",
+        "weeks on chart": "4"
+    },
+    "47": {
+        "rank": "47",
+        "song": "Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",
+        "artist": "Alikiba",
+        "Previous week": "33",
+        "weeks on chart": "5"
+    },
+    "48": {
+        "rank": "48",
+        "song": "Fountains ft. Tems",
+        "artist": "Drake",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "49": {
+        "rank": "49",
+        "song": "Crazy Tings",
+        "artist": "Tems",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "50": {
+        "rank": "50",
+        "song": "Coming ft. Busiswa",
+        "artist": "Naira Marley and  Busiswa",
+        "Previous week": "16",
+        "weeks on chart": "3"
+    },
+    "51": {
+        "rank": "51",
+        "song": "Osama",
+        "artist": "Zakes Bantwini and  Kasango",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "52": {
+        "rank": "52",
+        "song": "Dimension (feat. Skepta & Rema)",
+        "artist": "JAE5",
+        "Previous week": "41",
+        "weeks on chart": "9"
+    },
+    "53": {
+        "rank": "53",
+        "song": "Siyathandana (feat. Abidoza & Boohle)",
+        "artist": "Cassper Nyovest",
+        "Previous week": "46",
+        "weeks on chart": "4"
+    },
+    "54": {
+        "rank": "54",
+        "song": "Joy",
+        "artist": "Blxckie and  Oxlade",
+        "Previous week": "35",
+        "weeks on chart": "7"
+    },
+    "55": {
+        "rank": "55",
+        "song": "Somebodyxe2x80x99s Son ft. Brandy",
+        "artist": "Tiwa Savage",
+        "Previous week": "36",
+        "weeks on chart": "9"
+    },
+    "56": {
+        "rank": "56",
+        "song": "Songi Songi ft. Hiro",
+        "artist": "Maud Elka and  Alikiba",
+        "Previous week": "49",
+        "weeks on chart": "5"
+    },
+    "57": {
+        "rank": "57",
+        "song": "Shopping Spree (feat. Chris Brown & Young Thug)",
+        "artist": "Davido",
+        "Previous week": "39",
+        "weeks on chart": "3"
+    },
+    "58": {
+        "rank": "58",
+        "song": "Bobo",
+        "artist": "Aya Nakamura",
+        "Previous week": "48",
+        "weeks on chart": "7"
+    },
+    "59": {
+        "rank": "59",
+        "song": "It Is What It Is",
+        "artist": "Adekunle Gold",
+        "Previous week": "50",
+        "weeks on chart": "7"
+    },
+    "60": {
+        "rank": "60",
+        "song": "Forever (Remix) ft. Omah Lay",
+        "artist": "Gyakie",
+        "Previous week": "25",
+        "weeks on chart": "4"
+    },
+    "61": {
+        "rank": "61",
+        "song": "Maserati (Remix)",
+        "artist": "Olakira",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "62": {
+        "rank": "62",
+        "song": "Damages",
+        "artist": "Tems",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "63": {
+        "rank": "63",
+        "song": "Sweet ft. GUCHI",
+        "artist": "Rayvanny",
+        "Previous week": "61",
+        "weeks on chart": "7"
+    },
+    "64": {
+        "rank": "64",
+        "song": "Such Kinda Love ft. Jovial",
+        "artist": "Otile Brown",
+        "Previous week": "54",
+        "weeks on chart": "7"
+    },
+    "65": {
+        "rank": "65",
+        "song": "Baby I'm Jealous",
+        "artist": "Mr Eazi",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "66": {
+        "rank": "66",
+        "song": "Nimekuzoea",
+        "artist": "Nandy",
+        "Previous week": "57",
+        "weeks on chart": "7"
+    },
+    "67": {
+        "rank": "67",
+        "song": "Vibration",
+        "artist": "Fireboy Dml",
+        "Previous week": "51",
+        "weeks on chart": "7"
+    },
+    "68": {
+        "rank": "68",
+        "song": "First Sermon",
+        "artist": "Black Sherif",
+        "Previous week": "55",
+        "weeks on chart": "7"
+    },
+    "69": {
+        "rank": "69",
+        "song": "Jennifer",
+        "artist": "GUCHI",
+        "Previous week": "64",
+        "weeks on chart": "2"
+    },
+    "70": {
+        "rank": "70",
+        "song": "Coachella ft. Kwesi Arthur",
+        "artist": "Sarkodie",
+        "Previous week": "52",
+        "weeks on chart": "7"
+    },
+    "71": {
+        "rank": "71",
+        "song": "Benzema",
+        "artist": "Guchi",
+        "Previous week": "73",
+        "weeks on chart": "6"
+    },
+    "72": {
+        "rank": "72",
+        "song": "Teacher",
+        "artist": "Harmonize",
+        "Previous week": "69",
+        "weeks on chart": "2"
+    },
+    "73": {
+        "rank": "73",
+        "song": "Activate",
+        "artist": "Stonebwoy",
+        "Previous week": "53",
+        "weeks on chart": "2"
+    },
+    "74": {
+        "rank": "74",
+        "song": "Nyumba Ndogo",
+        "artist": "Zuchu",
+        "Previous week": "68",
+        "weeks on chart": "4"
+    },
+    "75": {
+        "rank": "75",
+        "song": "Ke Star (Remix)",
+        "artist": "Focalistic",
+        "Previous week": "56",
+        "weeks on chart": "5"
+    },
+    "76": {
+        "rank": "76",
+        "song": "AG Baby",
+        "artist": "Adekunle Gold",
+        "Previous week": "58",
+        "weeks on chart": "7"
+    },
+    "77": {
+        "rank": "77",
+        "song": "Ni Wewe ft. Harmonize",
+        "artist": "Killy (TZ)",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "78": {
+        "rank": "78",
+        "song": "Girls Want Girls ft. Lil Baby",
+        "artist": "Drake",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "79": {
+        "rank": "79",
+        "song": "Bling (feat. Amaarae & Buju)",
+        "artist": "Blaqbonez",
+        "Previous week": "59",
+        "weeks on chart": "2"
+    },
+    "80": {
+        "rank": "80",
+        "song": "Banyana",
+        "artist": "DJ Maphorisa",
+        "Previous week": "60",
+        "weeks on chart": "5"
+    },
+    "81": {
+        "rank": "81",
+        "song": "MAD",
+        "artist": "Sarz",
+        "Previous week": "62",
+        "weeks on chart": "8"
+    },
+    "82": {
+        "rank": "82",
+        "song": "23",
+        "artist": "Burna Boy",
+        "Previous week": "63",
+        "weeks on chart": "2"
+    },
+    "83": {
+        "rank": "83",
+        "song": "Fake Ex",
+        "artist": "Yaw Tog",
+        "Previous week": "70",
+        "weeks on chart": "2"
+    },
+    "84": {
+        "rank": "84",
+        "song": "Hallelu",
+        "artist": "Masterkraft",
+        "Previous week": "65",
+        "weeks on chart": "4"
+    },
+    "85": {
+        "rank": "85",
+        "song": "Shuperu ft. KiDi",
+        "artist": "Mr Drew",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "86": {
+        "rank": "86",
+        "song": "Jeraha ft. Jovial",
+        "artist": "Otile Brown",
+        "Previous week": "80",
+        "weeks on chart": "7"
+    },
+    "87": {
+        "rank": "87",
+        "song": "Sukari",
+        "artist": "Zuchu",
+        "Previous week": "74",
+        "weeks on chart": "2"
+    },
+    "88": {
+        "rank": "88",
+        "song": "Kiss ft. Rayvanny",
+        "artist": "Bahati",
+        "Previous week": "75",
+        "weeks on chart": "4"
+    },
+    "89": {
+        "rank": "89",
+        "song": "Jipinde",
+        "artist": "Ibraah",
+        "Previous week": "83",
+        "weeks on chart": "2"
+    },
+    "90": {
+        "rank": "90",
+        "song": "Number One ft. Zuchu",
+        "artist": "Rayvanny",
+        "Previous week": "78",
+        "weeks on chart": "3"
+    },
+    "91": {
+        "rank": "91",
+        "song": "Celebrate Me",
+        "artist": "Patoranking",
+        "Previous week": "76",
+        "weeks on chart": "9"
+    },
+    "92": {
+        "rank": "92",
+        "song": "Adom Grace",
+        "artist": "Diana Hamilton",
+        "Previous week": "77",
+        "weeks on chart": "4"
+    },
+    "93": {
+        "rank": "93",
+        "song": "Focus",
+        "artist": "Joeboy",
+        "Previous week": "84",
+        "weeks on chart": "2"
+    },
+    "94": {
+        "rank": "94",
+        "song": "Coachella feat. Kwesi Arthur",
+        "artist": "Sarkodie",
+        "Previous week": "86",
+        "weeks on chart": "4"
+    },
+    "95": {
+        "rank": "95",
+        "song": "Salute (feat. Rudeboy)",
+        "artist": "Alikiba",
+        "Previous week": "90",
+        "weeks on chart": "2"
+    },
+    "96": {
+        "rank": "96",
+        "song": "E Choke ft. Mr Drew",
+        "artist": "Sefa",
+        "Previous week": "72",
+        "weeks on chart": "2"
+    },
+    "97": {
+        "rank": "97",
+        "song": "Fashion Killer",
+        "artist": "Ayra Starr",
+        "Previous week": "81",
+        "weeks on chart": "2"
+    },
+    "98": {
+        "rank": "98",
+        "song": "Ghana Jollof (feat. Falz & Kwabena Kwabena)",
+        "artist": "Basketmouth",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    "99": {
+        "rank": "99",
+        "song": "Thy Grace, Pt. 2",
+        "artist": "Kofi Kinaata",
+        "Previous week": "100",
+        "weeks on chart": "2"
+    },
+    "100": {
+        "rank": "100",
+        "song": "Abule",
+        "artist": "Patoranking",
+        "Previous week": "94",
+        "weeks on chart": "2"
+    }
+}
