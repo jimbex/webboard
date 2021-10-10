@@ -1,1 +1,352 @@
-{"song":{"1":"Bounce (Official Video)","2":"Feeling","3":"Understand","4":"Lie","5":"High","6":"Peru","7":"Rock (Official Video)","8":"Essence ft. Tems","9":"Running (To You) ft. Simi","10":"Abule","11":"Somebody\u2019s Son (Ft Brandy)","12":"Kilometre","13":"Alcohol","14":"Body Language (Official Audio)","15":"Lonely","16":"Question (feat. Don Jazzy)","17":"Godly","18":"Infinity ft. Omah Lay","19":"Mood (feat. Buju)","20":"Door","21":"PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)","22":"Call Me Baby","23":"Too Correct","24":"My Jaber (Friday)","25":"Touch It","26":"Chargie","27":"Onyeka (Baby)","28":"Somebody (feat. Phyno)","29":"Slow Down","30":"Dangerous (feat. Ayra Starr)","31":"Woman","32":"Soundgasm","33":"Searching","34":"Felony","35":"Mercy (Official Music Video)","36":"Outside","37":"love nwantiti (feat. Dj Yo! & AX'EL) (Remix)","38":"Medicine","39":"Show Me","40":"Focus","41":"History ft. Fireboy DML","42":"Ride or Die   ","43":"Petty (feat. Virtue) ","44":"Loose It ft. Eskeez","45":"Unconditionally   ","46":"Yafun Yafun   ","47":"Yote Sawa   ","48":"Cut Soap   ","49":"Testimony","50":"Yktv (feat. Lady Donli) "},"artist":{"1":"Ruger","2":"LADIPOE","3":"Omah Lay","4":"Kizz Daniel","5":"Adekunle Gold","6":"Fireboy DML","7":"Olamide","8":"Wizkid","9":"Chike","10":"Patoranking","11":"Tiwa Savage","12":"Burna Boy","13":"Joeboy","14":"Falz","15":"Joeboy","16":"Burna Boy","17":"Omah Lay","18":"Olamide","19":"Wizkid","20":"Joeboy","21":"DJ Tunez","22":"Cheque","23":"Crayon","24":"H_ART THE BAND featuring Brizy Annechild","25":"KiDi","26":"Reekado Banks, Teejay & Lord Afrixana","27":"Burna Boy","28":"Olamide","29":"King Promise","30":"Cheque","31":"Rema","32":"Rema","33":"2Baba","34":"CKay","35":"Falz","36":"Buju","37":"North African Remix - CKay","38":"Jaywillz","39":"Joeboy","40":"Joeboy","41":"Cheque","42":"Joda","43":"KIM of Diamonds","44":"Olamide","45":"Ajebutter22, Oxlade","46":"Ajebo Hustlers","47":"Nandy","48":"Fiokee & Raybekah","49":"Buju","50":"Ilaye"},"Previous week":{"1":1,"2":2,"3":3,"4":4,"5":6,"6":7,"7":8,"8":9,"9":10,"10":12,"11":11,"12":13,"13":15,"14":35,"15":5,"16":24,"17":18,"18":19,"19":23,"20":17,"21":16,"22":0,"23":20,"24":22,"25":0,"26":27,"27":32,"28":0,"29":0,"30":14,"31":34,"32":0,"33":28,"34":0,"35":25,"36":0,"37":0,"38":0,"39":40,"40":41,"41":0,"42":45,"43":48,"44":42,"45":49,"46":0,"47":0,"48":0,"49":0,"50":0},"weeks on chart":{"1":13,"2":13,"3":13,"4":13,"5":13,"6":13,"7":13,"8":13,"9":12,"10":11,"11":13,"12":11,"13":5,"14":2,"15":2,"16":13,"17":13,"18":6,"19":3,"20":11,"21":3,"22":1,"23":12,"24":5,"25":1,"26":13,"27":6,"28":1,"29":1,"30":5,"31":6,"32":1,"33":5,"34":1,"35":2,"36":1,"37":1,"38":1,"39":11,"40":5,"41":1,"42":3,"43":13,"44":2,"45":2,"46":1,"47":1,"48":1,"49":1,"50":1}}
+[
+    {
+        "rank": "1",
+        "song": "Bounce (Official Video)",
+        "artist": "Ruger",
+        "Previous week": "1",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "2",
+        "song": "Feeling",
+        "artist": "LADIPOE",
+        "Previous week": "2",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "3",
+        "song": "Understand",
+        "artist": "Omah Lay",
+        "Previous week": "3",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "4",
+        "song": "Lie",
+        "artist": "Kizz Daniel",
+        "Previous week": "4",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "5",
+        "song": "High",
+        "artist": "Adekunle Gold",
+        "Previous week": "6",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "6",
+        "song": "Peru",
+        "artist": "Fireboy DML",
+        "Previous week": "7",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "7",
+        "song": "Rock (Official Video)",
+        "artist": "Olamide",
+        "Previous week": "8",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "8",
+        "song": "Essence ft. Tems",
+        "artist": "Wizkid",
+        "Previous week": "9",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "9",
+        "song": "Running (To You) ft. Simi",
+        "artist": "Chike",
+        "Previous week": "10",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "10",
+        "song": "Abule",
+        "artist": "Patoranking",
+        "Previous week": "12",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "11",
+        "song": "Somebody\u2019s Son (Ft Brandy)",
+        "artist": "Tiwa Savage",
+        "Previous week": "11",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "12",
+        "song": "Kilometre",
+        "artist": "Burna Boy",
+        "Previous week": "13",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "13",
+        "song": "Alcohol",
+        "artist": "Joeboy",
+        "Previous week": "15",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "14",
+        "song": "Body Language (Official Audio)",
+        "artist": "Falz",
+        "Previous week": "35",
+        "weeks on chart": "2"
+    },
+    {
+        "rank": "15",
+        "song": "Lonely",
+        "artist": "Joeboy",
+        "Previous week": "5",
+        "weeks on chart": "2"
+    },
+    {
+        "rank": "16",
+        "song": "Question (feat. Don Jazzy)",
+        "artist": "Burna Boy",
+        "Previous week": "24",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "17",
+        "song": "Godly",
+        "artist": "Omah Lay",
+        "Previous week": "18",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "18",
+        "song": "Infinity ft. Omah Lay",
+        "artist": "Olamide",
+        "Previous week": "19",
+        "weeks on chart": "6"
+    },
+    {
+        "rank": "19",
+        "song": "Mood (feat. Buju)",
+        "artist": "Wizkid",
+        "Previous week": "23",
+        "weeks on chart": "3"
+    },
+    {
+        "rank": "20",
+        "song": "Door",
+        "artist": "Joeboy",
+        "Previous week": "17",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "21",
+        "song": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+        "artist": "DJ Tunez",
+        "Previous week": "16",
+        "weeks on chart": "3"
+    },
+    {
+        "rank": "22",
+        "song": "Call Me Baby",
+        "artist": "Cheque",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "23",
+        "song": "Too Correct",
+        "artist": "Crayon",
+        "Previous week": "20",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "24",
+        "song": "My Jaber (Friday)",
+        "artist": "H_ART THE BAND featuring Brizy Annechild",
+        "Previous week": "22",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "25",
+        "song": "Touch It",
+        "artist": "KiDi",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "26",
+        "song": "Chargie",
+        "artist": "Reekado Banks, Teejay & Lord Afrixana",
+        "Previous week": "27",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "27",
+        "song": "Onyeka (Baby)",
+        "artist": "Burna Boy",
+        "Previous week": "32",
+        "weeks on chart": "6"
+    },
+    {
+        "rank": "28",
+        "song": "Somebody (feat. Phyno)",
+        "artist": "Olamide",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "29",
+        "song": "Slow Down",
+        "artist": "King Promise",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "30",
+        "song": "Dangerous (feat. Ayra Starr)",
+        "artist": "Cheque",
+        "Previous week": "14",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "31",
+        "song": "Woman",
+        "artist": "Rema",
+        "Previous week": "34",
+        "weeks on chart": "6"
+    },
+    {
+        "rank": "32",
+        "song": "Soundgasm",
+        "artist": "Rema",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "33",
+        "song": "Searching",
+        "artist": "2Baba",
+        "Previous week": "28",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "34",
+        "song": "Felony",
+        "artist": "CKay",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "35",
+        "song": "Mercy (Official Music Video)",
+        "artist": "Falz",
+        "Previous week": "25",
+        "weeks on chart": "2"
+    },
+    {
+        "rank": "36",
+        "song": "Outside",
+        "artist": "Buju",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "37",
+        "song": "love nwantiti (feat. Dj Yo! & AX'EL) (Remix)",
+        "artist": "North African Remix - CKay",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "38",
+        "song": "Medicine",
+        "artist": "Jaywillz",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "39",
+        "song": "Show Me",
+        "artist": "Joeboy",
+        "Previous week": "40",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "40",
+        "song": "Focus",
+        "artist": "Joeboy",
+        "Previous week": "41",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "41",
+        "song": "History ft. Fireboy DML",
+        "artist": "Cheque",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "42",
+        "song": "Ride or Die   ",
+        "artist": "Joda",
+        "Previous week": "45",
+        "weeks on chart": "3"
+    },
+    {
+        "rank": "43",
+        "song": "Petty (feat. Virtue) ",
+        "artist": "KIM of Diamonds",
+        "Previous week": "48",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "44",
+        "song": "Unconditionally   ",
+        "artist": "Ajebutter22, Oxlade",
+        "Previous week": "49",
+        "weeks on chart": "2"
+    },
+    {
+        "rank": "45",
+        "song": "Loose It ft. Eskeez",
+        "artist": "Olamide",
+        "Previous week": "42",
+        "weeks on chart": "2"
+    },
+    {
+        "rank": "46",
+        "song": "Yafun Yafun   ",
+        "artist": "Ajebo Hustlers",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "47",
+        "song": "Yote Sawa   ",
+        "artist": "Nandy",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "48",
+        "song": "Cut Soap   ",
+        "artist": "Fiokee & Raybekah",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "49",
+        "song": "Testimony",
+        "artist": "Buju",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "50",
+        "song": "Ginjaaah Your Flow ft. Mayorkun",
+        "artist": "Coca Cola",
+        "Previous week": "43",
+        "weeks on chart": "2"
+    }
+]

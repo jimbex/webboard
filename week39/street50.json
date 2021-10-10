@@ -1,1 +1,352 @@
-{"song":{"1":"Samarita (feat. Balloranking)","2":"Kogbede (feat. Wande Coal)","3":"Professor Peller (feat. Zlatan)","4":"Korope","5":"Party Next Door","6":"First Time in America","7":"Hallelu (feat. Bella Shmurda & Zlatan)","8":"KPK (Ko Por Ke) (Official Music Video)","9":"Coming","10":"Paper","11":"Koleyewon","12":"Mandeman (Remix) (feat. Davido)","13":"Baba Fela (feat. Laycon & Zlatan) [Remix]","14":"Prayer","15":"Cash App","16":"What Type Of Dance (feat. Naira Marley, Zlatan & Mayorkun)","17":"Lift Me High (feat. Seyi Vibez & Balloranking)","18":"Rain","19":"Africa","20":"Number One (feat. DJ Tarico, Preck & Nelson Tivane)","21":"Jazz Up","22":"OMOKOMO","23":"Champion","24":"We Meuve (feat. TheOnlyRLS, MR OULALA & Shady Humble)","25":"Energy","26":"Mofoti 2.0 (feat. Naira Marley & Sarkodie)","27":"Hello xe1xbaxb8","28":"Abeykehh (feat. Diamond Platnumz & Flavour)","29":"Focus","30":"TEMPLE (Remix) [feat. Bella Shmurda & Wande Coal]","31":"Problem (feat. Idowest)","32":"Cut Soap","33":"Rush","34":"Jafafa","35":"No Retire","36":"Troway (feat. Zlatan)","37":"Cho Cho (feat. Davido & Mayorkun)","38":"Gbowo","39":"Tekiller","40":"About Money","41":"Normal (feat. Nigga Tee)","42":"High Way","43":"Available (feat. Mohbad)","44":"Egbon","45":"Mr Money","46":"Focus Vibe","47":"Asampepe","48":"Meji","49":"Squander (feat. Niniola & Sayfar) [Remix]","50":"Aye Dun Gan"},"artist":{"1":"Idowest","2":"CDQ","3":"Seyi Vibez","4":"Lil Kesh and  Naira Marley","5":"Dangbana Republik and  Bella Shmurda","6":"Naira Marley","7":"Masterkraft","8":"Rexxie","9":"Naira Marley and  Busiswa","10":"C Blvck and  Peruzzi","11":"Naira Marley","12":"Small Doctor","13":"Mr Real","14":"Lexzydreamz","15":"Bella Shmurda,  Zlatan and  Lincoln","16":"DJ Kaywise","17":"Larncash","18":"BIGBEN","19":"Baddy Oosha","20":"Dj Consequence and  DJ Tarico","21":"Dj Java,  Remy Baggins and  PsychoYP","22":"Baddy Oosha","23":"Dangbana Republik and  Bella Shmurda","24":"Dj Paak","25":"SunkkeySnoop","26":"Rexxie","27":"Reminisce and  WestSyde","28":"Masterkraft","29":"Rudeboy","30":"Aloma","31":"Stackz","32":"DJ Xclusive and  Rulerboy","33":"Dangbana Republik and  Bella Shmurda","34":"Chinko Ekun and  MohBad","35":"Jaivah","36":"Whalez","37":"Zlatan","38":"Nikita","39":"CDQ","40":"SunkkeySnoop","41":"Hypeman Dewale Mr Pablo","42":"DJ Kaywise and  Phyno","43":"C Blvck","44":"Masterkraft and  Phyno","45":"Asake","46":"Slimcase","47":"Wale Turner and  Idowest","48":"DwillsHarmony,  Viktor Snipes and  Chinko Ekun","49":"Falz,  Kamo Mphela and  Mpura","50":"Oyibo Rebel"},"Previous week":{"1":6,"2":3,"3":1,"4":2,"5":4,"6":"-","7":5,"8":8,"9":9,"10":7,"11":10,"12":11,"13":13,"14":14,"15":15,"16":16,"17":"-","18":17,"19":"-","20":18,"21":19,"22":20,"23":21,"24":22,"25":23,"26":24,"27":25,"28":26,"29":27,"30":28,"31":29,"32":30,"33":31,"34":32,"35":33,"36":34,"37":35,"38":36,"39":37,"40":38,"41":39,"42":40,"43":12,"44":41,"45":42,"46":43,"47":44,"48":45,"49":46,"50":47},"weeks on chart":{"1":5,"2":12,"3":14,"4":6,"5":14,"6":1,"7":14,"8":11,"9":10,"10":14,"11":4,"12":14,"13":9,"14":5,"15":12,"16":6,"17":1,"18":4,"19":1,"20":9,"21":9,"22":5,"23":14,"24":8,"25":14,"26":10,"27":11,"28":14,"29":14,"30":14,"31":14,"32":14,"33":14,"34":14,"35":14,"36":14,"37":14,"38":14,"39":14,"40":14,"41":14,"42":14,"43":14,"44":14,"45":14,"46":14,"47":14,"48":14,"49":4,"50":5}}
+[
+    {
+        "rank": "1",
+        "song": "Samarita (feat. Balloranking)",
+        "artist": "Idowest",
+        "Previous week": "6",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "2",
+        "song": "Kogbede (feat. Wande Coal)",
+        "artist": "CDQ",
+        "Previous week": "3",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "3",
+        "song": "Korope",
+        "artist": "Lil Kesh and  Naira Marley",
+        "Previous week": "2",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "4",
+        "song": "Professor Peller (feat. Zlatan)",
+        "artist": "Seyi Vibez",
+        "Previous week": "1",
+        "weeks on chart": "6"
+    },
+    {
+        "rank": "5",
+        "song": "Party Next Door",
+        "artist": "Dangbana Republik and  Bella Shmurda",
+        "Previous week": "4",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "6",
+        "song": "First Time in America",
+        "artist": "Naira Marley",
+        "Previous week": "-",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "7",
+        "song": "Hallelu (feat. Bella Shmurda & Zlatan)",
+        "artist": "Masterkraft",
+        "Previous week": "5",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "8",
+        "song": "KPK (Ko Por Ke) (Official Music Video)",
+        "artist": "Rexxie",
+        "Previous week": "8",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "9",
+        "song": "Coming",
+        "artist": "Naira Marley and  Busiswa",
+        "Previous week": "9",
+        "weeks on chart": "10"
+    },
+    {
+        "rank": "10",
+        "song": "Paper",
+        "artist": "C Blvck and  Peruzzi",
+        "Previous week": "7",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "11",
+        "song": "Koleyewon",
+        "artist": "Naira Marley",
+        "Previous week": "10",
+        "weeks on chart": "4"
+    },
+    {
+        "rank": "12",
+        "song": "Mandeman (Remix) (feat. Davido)",
+        "artist": "Small Doctor",
+        "Previous week": "11",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "13",
+        "song": "Baba Fela (feat. Laycon & Zlatan) [Remix]",
+        "artist": "Mr Real",
+        "Previous week": "13",
+        "weeks on chart": "9"
+    },
+    {
+        "rank": "14",
+        "song": "Prayer",
+        "artist": "Lexzydreamz",
+        "Previous week": "14",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "15",
+        "song": "Cash App",
+        "artist": "Bella Shmurda,  Zlatan and  Lincoln",
+        "Previous week": "15",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "16",
+        "song": "What Type Of Dance (feat. Naira Marley, Zlatan & Mayorkun)",
+        "artist": "DJ Kaywise",
+        "Previous week": "16",
+        "weeks on chart": "6"
+    },
+    {
+        "rank": "17",
+        "song": "Lift Me High (feat. Seyi Vibez & Balloranking)",
+        "artist": "Larncash",
+        "Previous week": "-",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "18",
+        "song": "Rain",
+        "artist": "BIGBEN",
+        "Previous week": "17",
+        "weeks on chart": "4"
+    },
+    {
+        "rank": "19",
+        "song": "Africa",
+        "artist": "Baddy Oosha",
+        "Previous week": "-",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "20",
+        "song": "Number One (feat. DJ Tarico, Preck & Nelson Tivane)",
+        "artist": "Dj Consequence and  DJ Tarico",
+        "Previous week": "18",
+        "weeks on chart": "9"
+    },
+    {
+        "rank": "21",
+        "song": "Jazz Up",
+        "artist": "Dj Java,  Remy Baggins and  PsychoYP",
+        "Previous week": "19",
+        "weeks on chart": "9"
+    },
+    {
+        "rank": "22",
+        "song": "OMOKOMO",
+        "artist": "Baddy Oosha",
+        "Previous week": "20",
+        "weeks on chart": "5"
+    },
+    {
+        "rank": "23",
+        "song": "Champion",
+        "artist": "Dangbana Republik and  Bella Shmurda",
+        "Previous week": "21",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "24",
+        "song": "We Meuve (feat. TheOnlyRLS, MR OULALA & Shady Humble)",
+        "artist": "Dj Paak",
+        "Previous week": "22",
+        "weeks on chart": "8"
+    },
+    {
+        "rank": "25",
+        "song": "Energy",
+        "artist": "SunkkeySnoop",
+        "Previous week": "23",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "26",
+        "song": "Mofoti 2.0 (feat. Naira Marley & Sarkodie)",
+        "artist": "Rexxie",
+        "Previous week": "24",
+        "weeks on chart": "10"
+    },
+    {
+        "rank": "27",
+        "song": "Hello xe1xbaxb8",
+        "artist": "Reminisce and  WestSyde",
+        "Previous week": "25",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "28",
+        "song": "Abeykehh (feat. Diamond Platnumz & Flavour)",
+        "artist": "Masterkraft",
+        "Previous week": "26",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "29",
+        "song": "Focus",
+        "artist": "Rudeboy",
+        "Previous week": "27",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "30",
+        "song": "TEMPLE (Remix) [feat. Bella Shmurda & Wande Coal]",
+        "artist": "Aloma",
+        "Previous week": "28",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "31",
+        "song": "Problem (feat. Idowest)",
+        "artist": "Stackz",
+        "Previous week": "29",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "32",
+        "song": "Cut Soap",
+        "artist": "DJ Xclusive and  Rulerboy",
+        "Previous week": "30",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "33",
+        "song": "Rush",
+        "artist": "Dangbana Republik and  Bella Shmurda",
+        "Previous week": "31",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "34",
+        "song": "Jafafa",
+        "artist": "Chinko Ekun and  MohBad",
+        "Previous week": "32",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "35",
+        "song": "No Retire",
+        "artist": "Jaivah",
+        "Previous week": "33",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "36",
+        "song": "Troway (feat. Zlatan)",
+        "artist": "Whalez",
+        "Previous week": "34",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "37",
+        "song": "Cho Cho (feat. Davido & Mayorkun)",
+        "artist": "Zlatan",
+        "Previous week": "35",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "38",
+        "song": "Gbowo",
+        "artist": "Nikita",
+        "Previous week": "36",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "39",
+        "song": "Tekiller",
+        "artist": "CDQ",
+        "Previous week": "37",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "40",
+        "song": "About Money",
+        "artist": "SunkkeySnoop",
+        "Previous week": "38",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "41",
+        "song": "Normal (feat. Nigga Tee)",
+        "artist": "Hypeman Dewale Mr Pablo",
+        "Previous week": "39",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "42",
+        "song": "High Way",
+        "artist": "DJ Kaywise and  Phyno",
+        "Previous week": "40",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "43",
+        "song": "Available (feat. Mohbad)",
+        "artist": "C Blvck",
+        "Previous week": "12",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "44",
+        "song": "Egbon",
+        "artist": "Masterkraft and  Phyno",
+        "Previous week": "41",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "45",
+        "song": "Mr Money",
+        "artist": "Asake",
+        "Previous week": "42",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "46",
+        "song": "Focus Vibe",
+        "artist": "Slimcase",
+        "Previous week": "43",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "47",
+        "song": "Asampepe",
+        "artist": "Wale Turner and  Idowest",
+        "Previous week": "44",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "48",
+        "song": "Meji",
+        "artist": "DwillsHarmony,  Viktor Snipes and  Chinko Ekun",
+        "Previous week": "45",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "49",
+        "song": "Squander (feat. Niniola & Sayfar) [Remix]",
+        "artist": "Falz,  Kamo Mphela and  Mpura",
+        "Previous week": "46",
+        "weeks on chart": "4"
+    },
+    {
+        "rank": "50",
+        "song": "Aye Dun Gan",
+        "artist": "Oyibo Rebel",
+        "Previous week": "47",
+        "weeks on chart": "5"
+    }
+]

@@ -1,1 +1,352 @@
-{"song":{"1":"Everything (Amen)","2":"Jehovah Overdo","3":"Congratulations (feat. Buchi)","4":"Worship Your Maker","5":"Omemma","6":"Excess Love (feat. J.J. Hairston & Youthful Praise) [Remix]","7":"All That Matters","8":"Too Faithful","9":"All The Glory","10":"Open Doors","11":"Yahweh Yahweh (feat. Sinach)","12":"Olorun Agbaye - You Are Mighty (feat. Chandler Moore & O\/B\/A)","13":"Never Go Down ft. Limoblaze","14":"Adom Grace","15":"Amazing God","16":"Beautiful (feat. Nathaniel Bassey)","17":"Yahweh","18":"You are Yahweh","19":"Hosanna (Live)","20":"Obinasom","21":"Way Maker","22":"Now","23":"Jesus (feat. Mercy Chinwo)","24":"Suddenly","25":"Covenant Keeping God","26":"You are Great","27":"Onyedikagi (feat. Glowrie)","28":"Fragrance to Fire","29":"Omeriwo (feat. Henrisoul & Mercy Chinwo)","30":"Chinedum","31":"At All Cost","32":"NO OTHER NAME","33":"Yes And Amen","34":"Nara (feat. Travis Greene)","35":"You Are Worthy","36":"Na You Dey Reign","37":"More Than Gold","38":"Hallelujah No Go Finish","39":"In Your Hands","40":"Mighty God (feat. Nathaniel Bassey)","41":"God of Vengeance","42":"Imela","43":"Halleluyah","44":"Bigger Everyday","45":"Under The Canopy","46":"All Things Are Ready","47":"Only One ft. Masauti","48":"More Than Enough","49":"Strong Tower","50":"Hallelujah Challenge Praise Medley"},"artist":{"1":"Timi Dakolo","2":"Chidinma","3":"Ada Ehi","4":"Dunsin Oyekan","5":"Sinach","6":"Mercy Chinwo","7":"Minister GUC","8":"Moses Bliss","9":"Da Voice","10":"Ada Ehi","11":"Nathaniel Bassey","12":"Nathaniel Bassey","13":"Ada Ehi","14":"Diana Hamilton","15":"Mercy Chinwo","16":"Sinach","17":"EBEN","18":"Steve Crown","19":"Steve Crown","20":"Mercy Chinwo","21":"Sinach","22":"Ada Ehi","23":"Samsong","24":"Mercy Chinwo","25":"Jimmy D Psalmist","26":"Steve Crown","27":"Mercy Chinwo","28":"Dunsin Oyekan","29":"Sammie Okposo","30":"Mercy Chinwo","31":"Dunsin Oyekan","32":"Frank Edwards","33":"Tope Alabi","34":"Tim Godfrey","35":"Tope Alabi","36":"Mercy Chinwo","37":"Judith Kanayo","38":"Freke Umoh","39":"Moses Bliss","40":"Steve Crown","41":"Minister GUC","42":"Steve Crown","43":"Tope Alabi","44":"Moses Bliss","45":"Frank Edwards","46":"Sinach","47":"Mr. Seed","48":"Ada Ehi","49":"Nathaniel Bassey","50":"Nathaniel Bassey"},"Previous week":{"1":1,"2":3,"3":2,"4":4,"5":5,"6":7,"7":43,"8":8,"9":0,"10":6,"11":10,"12":9,"13":12,"14":11,"15":13,"16":24,"17":17,"18":16,"19":14,"20":18,"21":20,"22":15,"23":23,"24":21,"25":22,"26":25,"27":19,"28":27,"29":0,"30":33,"31":31,"32":32,"33":30,"34":34,"35":35,"36":36,"37":29,"38":37,"39":39,"40":41,"41":0,"42":42,"43":44,"44":40,"45":46,"46":45,"47":47,"48":48,"49":0,"50":49},"weeks on chart":{"1":14,"2":14,"3":13,"4":13,"5":14,"6":13,"7":14,"8":13,"9":1,"10":11,"11":14,"12":14,"13":8,"14":13,"15":13,"16":3,"17":13,"18":14,"19":12,"20":13,"21":12,"22":14,"23":14,"24":14,"25":14,"26":14,"27":14,"28":14,"29":1,"30":12,"31":13,"32":12,"33":12,"34":10,"35":9,"36":14,"37":14,"38":4,"39":11,"40":9,"41":1,"42":14,"43":3,"44":11,"45":7,"46":7,"47":2,"48":4,"49":1,"50":2}}
+[
+    {
+        "rank": "1",
+        "song": "Everything (Amen)",
+        "artist": "Timi Dakolo",
+        "Previous week": "1",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "2",
+        "song": "Jehovah Overdo",
+        "artist": "Chidinma",
+        "Previous week": "3",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "3",
+        "song": "Congratulations (feat. Buchi)",
+        "artist": "Ada Ehi",
+        "Previous week": "2",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "4",
+        "song": "Worship Your Maker",
+        "artist": "Dunsin Oyekan",
+        "Previous week": "4",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "5",
+        "song": "Omemma",
+        "artist": "Sinach",
+        "Previous week": "5",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "6",
+        "song": "Excess Love (feat. J.J. Hairston & Youthful Praise) [Remix]",
+        "artist": "Mercy Chinwo",
+        "Previous week": "7",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "7",
+        "song": "All That Matters",
+        "artist": "Minister GUC",
+        "Previous week": "43",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "8",
+        "song": "Too Faithful",
+        "artist": "Moses Bliss",
+        "Previous week": "8",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "9",
+        "song": "All The Glory",
+        "artist": "Da Voice",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "10",
+        "song": "Open Doors",
+        "artist": "Ada Ehi",
+        "Previous week": "6",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "11",
+        "song": "Yahweh Yahweh (feat. Sinach)",
+        "artist": "Nathaniel Bassey",
+        "Previous week": "10",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "12",
+        "song": "Olorun Agbaye - You Are Mighty (feat. Chandler Moore & O/B/A)",
+        "artist": "Nathaniel Bassey",
+        "Previous week": "9",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "13",
+        "song": "Never Go Down ft. Limoblaze",
+        "artist": "Ada Ehi",
+        "Previous week": "12",
+        "weeks on chart": "8"
+    },
+    {
+        "rank": "14",
+        "song": "Adom Grace",
+        "artist": "Diana Hamilton",
+        "Previous week": "11",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "15",
+        "song": "Amazing God",
+        "artist": "Mercy Chinwo",
+        "Previous week": "13",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "16",
+        "song": "Beautiful (feat. Nathaniel Bassey)",
+        "artist": "Sinach",
+        "Previous week": "24",
+        "weeks on chart": "3"
+    },
+    {
+        "rank": "17",
+        "song": "Yahweh",
+        "artist": "EBEN",
+        "Previous week": "17",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "18",
+        "song": "You are Yahweh",
+        "artist": "Steve Crown",
+        "Previous week": "16",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "19",
+        "song": "Hosanna (Live)",
+        "artist": "Steve Crown",
+        "Previous week": "14",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "20",
+        "song": "Obinasom",
+        "artist": "Mercy Chinwo",
+        "Previous week": "18",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "21",
+        "song": "Way Maker",
+        "artist": "Sinach",
+        "Previous week": "20",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "22",
+        "song": "Now",
+        "artist": "Ada Ehi",
+        "Previous week": "15",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "23",
+        "song": "Suddenly",
+        "artist": "Mercy Chinwo",
+        "Previous week": "21",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "24",
+        "song": "Jesus (feat. Mercy Chinwo)",
+        "artist": "Samsong",
+        "Previous week": "23",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "25",
+        "song": "Covenant Keeping God",
+        "artist": "Jimmy D Psalmist",
+        "Previous week": "22",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "26",
+        "song": "You are Great",
+        "artist": "Steve Crown",
+        "Previous week": "25",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "27",
+        "song": "Onyedikagi (feat. Glowrie)",
+        "artist": "Mercy Chinwo",
+        "Previous week": "19",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "28",
+        "song": "Fragrance to Fire",
+        "artist": "Dunsin Oyekan",
+        "Previous week": "27",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "29",
+        "song": "Omeriwo (feat. Henrisoul & Mercy Chinwo)",
+        "artist": "Sammie Okposo",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "30",
+        "song": "Chinedum",
+        "artist": "Mercy Chinwo",
+        "Previous week": "33",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "31",
+        "song": "NO OTHER NAME",
+        "artist": "Frank Edwards",
+        "Previous week": "32",
+        "weeks on chart": "13"
+    },
+    {
+        "rank": "32",
+        "song": "At All Cost",
+        "artist": "Dunsin Oyekan",
+        "Previous week": "31",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "33",
+        "song": "Yes And Amen",
+        "artist": "Tope Alabi",
+        "Previous week": "30",
+        "weeks on chart": "12"
+    },
+    {
+        "rank": "34",
+        "song": "Nara (feat. Travis Greene)",
+        "artist": "Tim Godfrey",
+        "Previous week": "34",
+        "weeks on chart": "10"
+    },
+    {
+        "rank": "35",
+        "song": "You Are Worthy",
+        "artist": "Tope Alabi",
+        "Previous week": "35",
+        "weeks on chart": "9"
+    },
+    {
+        "rank": "36",
+        "song": "Na You Dey Reign",
+        "artist": "Mercy Chinwo",
+        "Previous week": "36",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "37",
+        "song": "More Than Gold",
+        "artist": "Judith Kanayo",
+        "Previous week": "29",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "38",
+        "song": "Hallelujah No Go Finish",
+        "artist": "Freke Umoh",
+        "Previous week": "37",
+        "weeks on chart": "4"
+    },
+    {
+        "rank": "39",
+        "song": "In Your Hands",
+        "artist": "Moses Bliss",
+        "Previous week": "39",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "40",
+        "song": "Mighty God (feat. Nathaniel Bassey)",
+        "artist": "Steve Crown",
+        "Previous week": "41",
+        "weeks on chart": "9"
+    },
+    {
+        "rank": "41",
+        "song": "God of Vengeance",
+        "artist": "Minister GUC",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    },
+    {
+        "rank": "42",
+        "song": "Imela",
+        "artist": "Steve Crown",
+        "Previous week": "42",
+        "weeks on chart": "14"
+    },
+    {
+        "rank": "43",
+        "song": "Halleluyah",
+        "artist": "Tope Alabi",
+        "Previous week": "44",
+        "weeks on chart": "3"
+    },
+    {
+        "rank": "44",
+        "song": "Bigger Everyday",
+        "artist": "Moses Bliss",
+        "Previous week": "40",
+        "weeks on chart": "11"
+    },
+    {
+        "rank": "45",
+        "song": "Under The Canopy",
+        "artist": "Frank Edwards",
+        "Previous week": "46",
+        "weeks on chart": "7"
+    },
+    {
+        "rank": "46",
+        "song": "All Things Are Ready",
+        "artist": "Sinach",
+        "Previous week": "45",
+        "weeks on chart": "7"
+    },
+    {
+        "rank": "47",
+        "song": "Only One ft. Masauti",
+        "artist": "Mr. Seed",
+        "Previous week": "47",
+        "weeks on chart": "2"
+    },
+    {
+        "rank": "48",
+        "song": "More Than Enough",
+        "artist": "Ada Ehi",
+        "Previous week": "48",
+        "weeks on chart": "4"
+    },
+    {
+        "rank": "49",
+        "song": "Hallelujah Challenge Praise Medley",
+        "artist": "Nathaniel Bassey",
+        "Previous week": "49",
+        "weeks on chart": "2"
+    },
+    {
+        "rank": "50",
+        "song": "Strong Tower",
+        "artist": "Nathaniel Bassey",
+        "Previous week": "0",
+        "weeks on chart": "1"
+    }
+]
